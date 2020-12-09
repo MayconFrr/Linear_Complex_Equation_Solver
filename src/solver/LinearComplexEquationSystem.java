@@ -19,6 +19,7 @@ public class LinearComplexEquationSystem {
     private final List<OutputHandler> handlers = new ArrayList<>();
 
     private final LinearComplexEquation[] rows;
+
     private final int variableCount;
     private final int equationCount;
 
